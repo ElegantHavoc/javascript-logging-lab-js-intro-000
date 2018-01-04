@@ -4,5 +4,3 @@ console.log(word)
 word = 'dog'
 
 console.log(word)
-
-
